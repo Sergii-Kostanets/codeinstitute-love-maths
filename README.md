@@ -1,3 +1,5 @@
+[Link tp GitHub Pages](https://sergii-kostanets.github.io/codeinstitute-love-maths/)
+
 ![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
 
 Welcome USER_NAME,
